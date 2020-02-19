@@ -1,0 +1,85 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\RandomUE4StuffEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\AnimNotify_OnEndAnimation.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\ChaoAnimationLibrary.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\ChaoAnimationMontagerLibrary.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\ChaoAnimMetadata.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\RandomUE4Stuff.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\TestAnimLibrary.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\AnimNotify_OnEndAnimation.gen.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\ChaoAnimationLibrary.gen.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\ChaoAnimationMontagerLibrary.gen.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\ChaoAnimEntry.gen.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\ChaoAnimMetadata.gen.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\RandomUE4Stuff.init.gen.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\TestAnimLibrary.gen.cpp.obj"
+"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\Default.rc2.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\AnimationModifiers\UE4Editor-AnimationModifiers.lib"
+"D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\AnimationEditor\UE4Editor-AnimationEditor.lib"
+/OUT:"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Binaries\Win64\UE4Editor-RandomUE4Stuff.dll"
+/IMPLIB:"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\UE4Editor-RandomUE4Stuff.suppressed.lib"
+/PDB:"D:\Github\RandomUE4Stuff\RandomUE4Stuff\Binaries\Win64\UE4Editor-RandomUE4Stuff.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_RandomUE4Stuff

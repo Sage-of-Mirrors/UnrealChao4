@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RandomUE4Stuff.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{61017384-0226-4962-8FE7-EA8EBA02F7E2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RandomUE4Stuff.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RandomUE4StuffEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AEC46369-CD90-41FA-9BE3-65809C4886F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RandomUE4Stuff">
+      <UniqueIdentifier>{C91FF35F-5459-4A8C-B930-1148F4DB255E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RandomUE4Stuff\AnimNotify_OnEndAnimation.cpp">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomUE4Stuff\AnimNotify_OnEndAnimation.h">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RandomUE4Stuff\ChaoAnimationLibrary.cpp">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomUE4Stuff\ChaoAnimationLibrary.h">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RandomUE4Stuff\ChaoAnimationMontagerLibrary.cpp">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomUE4Stuff\ChaoAnimationMontagerLibrary.h">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RandomUE4Stuff\ChaoAnimEntry.h">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RandomUE4Stuff\ChaoAnimMetadata.cpp">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomUE4Stuff\ChaoAnimMetadata.h">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RandomUE4Stuff\IndexMapEntry.h">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\RandomUE4Stuff\RandomUE4Stuff.Build.cs">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RandomUE4Stuff\RandomUE4Stuff.cpp">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomUE4Stuff\RandomUE4Stuff.h">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RandomUE4Stuff\TestAnimLibrary.cpp">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomUE4Stuff\TestAnimLibrary.h">
+      <Filter>Source\RandomUE4Stuff</Filter>
+    </ClInclude>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{1BF649D8-35FD-4FF3-B2F5-4AD8E5DCB146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ChaoAnimationMontager">
+      <UniqueIdentifier>{E054ED68-5A16-4A46-83B5-D9EC820D53EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ChaoAnimationMontager\ChaoAnimationMontager.uplugin">
+      <Filter>Plugins\ChaoAnimationMontager</Filter>
+    </None>
+    <Filter Include="Plugins\ChaoAnimationMontager\Resources">
+      <UniqueIdentifier>{789E1C91-E0F5-40A5-884F-B5E3379E8C07}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ChaoAnimationMontager\Resources\Icon128.png">
+      <Filter>Plugins\ChaoAnimationMontager\Resources</Filter>
+    </None>
+  </ItemGroup>
+</Project>

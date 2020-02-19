@@ -1,0 +1,1240 @@
+﻿Log file open, 01/13/20 14:04:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Dialog
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.171053
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Engine.ini]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Engine.ini]
+[2020.01.13-20.04.46:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Engine.ini]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Engine.ini]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.13-20.04.46:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Engine.ini]
+[2020.01.13-20.04.46:808][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Engine.ini]
+[2020.01.13-20.04.46:814][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.13-20.04.46:814][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.13-20.04.46:815][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.13-20.04.46:815][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.13-20.04.46:815][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.13-20.04.46:850][  0]LogHAL: Display: Platform has ~ 16 GB [17062486016 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.13-20.04.46:850][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.13-20.04.46:850][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.13-20.04.46:850][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:850][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.13-20.04.46:850][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.13-20.04.46:851][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Scalability.ini]
+[2020.01.13-20.04.46:852][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.13-20.04.46:852][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.13-20.04.46:852][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal_Projects/Dialog/Saved/Config/Windows/Engine.ini]
+[2020.01.13-20.04.46:852][  0]LogInit: Computer: SEAHORSE
+[2020.01.13-20.04.46:852][  0]LogInit: User: Dylan
+[2020.01.13-20.04.46:852][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.13-20.04.46:852][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.13-20.04.46:852][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.13-20.04.46:852][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.13-20.04.46:852][  0]LogMemory: Process Physical Memory: 96.86 MB used, 96.86 MB peak
+[2020.01.13-20.04.46:852][  0]LogMemory: Process Virtual Memory: 84.20 MB used, 84.20 MB peak
+[2020.01.13-20.04.46:852][  0]LogMemory: Physical Memory: 6323.15 MB used,  9948.91 MB free, 16272.05 MB total
+[2020.01.13-20.04.46:852][  0]LogMemory: Virtual Memory: 4625.96 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.01.13-20.04.46:869][  0]LogInit: Using OS detected language (en-US).
+[2020.01.13-20.04.46:869][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.13-20.04.46:870][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.13-20.04.47:025][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.13-20.04.47:058][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.13-20.04.47:058][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.13-20.04.47:195][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.13-20.04.47:195][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.13-20.04.47:256][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.01.13-20.04.47:256][  0]LogD3D11RHI:       8088/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.13-20.04.47:282][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.01.13-20.04.47:282][  0]LogD3D11RHI:       128/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.13-20.04.47:284][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.13-20.04.47:284][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.13-20.04.47:284][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.13-20.04.47:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.13-20.04.47:292][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.13-20.04.47:292][  0]LogWindows: EnumDisplayDevices:
+[2020.01.13-20.04.47:292][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.01.13-20.04.47:293][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.01.13-20.04.47:293][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.01.13-20.04.47:293][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.01.13-20.04.47:293][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.13-20.04.47:294][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.13-20.04.47:294][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.13-20.04.47:294][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.01.13-20.04.47:294][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.01.13-20.04.47:294][  0]LogD3D11RHI:   Driver Version: 436.02 (internal:26.21.14.3602, unified:436.02)
+[2020.01.13-20.04.47:294][  0]LogD3D11RHI:      Driver Date: 8-16-2019
+[2020.01.13-20.04.47:294][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.01.13-20.04.47:332][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.13-20.04.47:336][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.13-20.04.47:336][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.13-20.04.47:336][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.13-20.04.47:345][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.13-20.04.47:611][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.13-20.04.47:622][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.13-20.04.47:633][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.13-20.04.47:645][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.13-20.04.47:656][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.13-20.04.47:668][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.13-20.04.47:681][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.13-20.04.47:692][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.13-20.04.47:697][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.13-20.04.47:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.13-20.04.47:779][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.13-20.04.47:779][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.13-20.04.47:779][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.13-20.04.47:780][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.13-20.04.47:826][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.13-20.04.47:826][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.13-20.04.47:847][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.13-20.04.47:847][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.13-20.04.47:859][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.13-20.04.47:870][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.13-20.04.47:881][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.13-20.04.47:892][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.13-20.04.47:931][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.13-20.04.47:931][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.13-20.04.47:931][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.13-20.04.47:936][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.13-20.04.47:968][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../../Unreal_Projects/Dialog/Intermediate/Shaders/WorkingDirectory/6460/).
+[2020.01.13-20.04.47:968][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dylan/AppData/Local/Temp/UnrealShaderWorkingDir/8CBCA6C846DF821A61C2B29040185F0F/'.
+[2020.01.13-20.04.47:969][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.13-20.04.47:969][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.13-20.04.47:969][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.13-20.04.48:489][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.13-20.04.48:542][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Dylan/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.13-20.04.48:542][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dylan/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.13-20.04.48:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal_Projects/Dialog/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.13-20.04.48:542][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.13-20.04.48:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal_Projects/Dialog/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.13-20.04.48:542][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.13-20.04.48:554][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.13-20.04.48:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.13-20.04.48:554][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.13-20.04.48:566][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.13-20.04.48:566][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.13-20.04.48:566][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.13-20.04.48:587][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.13-20.04.48:588][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.13-20.04.48:588][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.13-20.04.48:666][  0]LogAssetRegistry: FAssetRegistry took 0.0321 seconds to start up
+[2020.01.13-20.04.48:969][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.13-20.04.49:090][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.13-20.04.49:090][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.13-20.04.49:090][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.13-20.04.49:090][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.13-20.04.49:090][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.13-20.04.49:103][  0]LogNetVersion: Dialog 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 251200776)
+[2020.01.13-20.04.49:697][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.187345 seconds
+[2020.01.13-20.04.49:704][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.13-20.04.49:704][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.13-20.04.49:704][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.13-20.04.50:425][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.13-20.04.50:439][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.13-20.04.50:538][  0]SourceControl: Source control is disabled
+[2020.01.13-20.04.50:538][  0]SourceControl: Source control is disabled
+[2020.01.13-20.04.50:539][  0]SourceControl: Source control is disabled
+[2020.01.13-20.04.50:540][  0]SourceControl: Source control is disabled
+[2020.01.13-20.04.50:599][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.13-20.04.50:689][  0]LogOcInput: OculusInput pre-init called
+[2020.01.13-20.04.51:300][  0]LogEngine: Initializing Engine...
+[2020.01.13-20.04.51:301][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.13-20.04.51:302][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.13-20.04.51:509][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.13-20.04.51:518][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.13-20.04.51:559][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.13-20.04.51:588][  0]LogInit: FAudioDevice initialized.
+[2020.01.13-20.04.51:588][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.13-20.04.51:656][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Dylan/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.13-20.04.51:660][  0]LogInit: Texture streaming: Enabled
+[2020.01.13-20.04.51:673][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.13-20.04.51:688][  0]LogInit: Transaction tracking system initialized
+[2020.01.13-20.04.51:701][  0]BlueprintLog: New page: Editor Load
+[2020.01.13-20.04.51:761][  0]LocalizationService: Localization service is disabled
+[2020.01.13-20.04.51:878][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2020.01.13-20.04.51:878][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2020.01.13-20.04.51:878][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2020.01.13-20.04.52:073][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Projects/Dialog/Content/' took 0.01s
+[2020.01.13-20.04.52:073][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.13-20.04.52:073][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.13-20.04.52:215][  0]SourceControl: Source control is disabled
+[2020.01.13-20.04.52:215][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.13-20.04.52:331][  0]LightingResults: New page: Lighting Build
+[2020.01.13-20.04.52:333][  0]MapCheck: New page: Map Check
+[2020.01.13-20.04.52:333][  0]LightingResults: New page: Lighting Build
+[2020.01.13-20.04.52:356][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.01.13-20.04.53:173][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Dialog/Philosopher-Regular'
+[2020.01.13-20.04.53:174][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Dialog/Philosopher-Regular' while loading NULL.
+[2020.01.13-20.04.53:174][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Dialog/Philosopher-Regular'
+[2020.01.13-20.04.53:175][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Dialog/Philosopher-Regular' while loading NULL.
+[2020.01.13-20.04.53:260][  0]LogBlueprint: Error: [Compiler DialogWidget] In use pin  Unformatted String  no longer exists on node  Format Invisible Text . Please refresh node or break links to remove pin.
+[2020.01.13-20.04.53:275][  0]LogBlueprint: Warning: [Compiler DialogWidget] [0008.48] Compile of DialogWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 61 ms] (/Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget)
+[2020.01.13-20.04.53:311][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find the function 'SetText' called from  Set Text
+[2020.01.13-20.04.53:320][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0008.52] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 30 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2020.01.13-20.04.53:577][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Dialog/Philosopher-Regular'
+[2020.01.13-20.04.53:577][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Dialog/Philosopher-Regular.Philosopher-Regular Referenced by Philosopher-Regular_Font
+[2020.01.13-20.04.53:577][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Dialog/Philosopher-Regular' while loading NULL.
+[2020.01.13-20.04.54:354][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-20.04.54:434][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.13-20.04.54:476][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.01.13-20.04.54:476][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.13-20.04.54:477][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2020.01.13-20.04.54:477][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.261
+[2020.01.13-20.04.54:864][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-20.04.54:876][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-20.04.54:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-20.04.54:892][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-20.04.54:944][  0]LogCollectionManager: Loaded 0 collections in 0.000806 seconds
+[2020.01.13-20.04.55:054][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Projects/Dialog/Saved/Collections/' took 0.01s
+[2020.01.13-20.04.55:054][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Projects/Dialog/Content/Developers/Dylan/Collections/' took 0.01s
+[2020.01.13-20.04.55:054][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Projects/Dialog/Content/Collections/' took 0.01s
+[2020.01.13-20.04.55:054][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.13-20.04.55:064][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2732 classes and 659 folders.
+[2020.01.13-20.04.55:118][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.13-20.04.55:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:237][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:240][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:242][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:244][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:269][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:270][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:272][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:273][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:274][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:278][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:279][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.13-20.04.55:737][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.13-20.04.55:823][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.13-20.04.56:492][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.13-20.04.56:493][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.13-20.04.56:507][  0]LogSlate: Took 0.009599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.13-20.04.56:708][  0]LogRenderer: Reallocating scene render targets to support 920x512 Format 10 NumSamples 1 (Frame:1).
+[2020.01.13-20.04.56:978][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.13-20.04.56:978][  0]LogLoad: (Engine Initialization) Total time: 12.18 seconds
+[2020.01.13-20.04.56:978][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.13-20.04.57:012][  0]LogAssetRegistry: Asset discovery search completed in 8.3689 seconds
+[2020.01.13-20.04.57:014][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.13-20.04.57:014][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2020.01.13-20.04.57:020][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.13-20.04.57:030][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.13-20.04.57:092][  0]LogSlate: Took 0.018972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.13-20.04.57:111][  1]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '', Character: 'P (U+0050)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.01.13-20.04.57:175][  1]LogSlate: Took 0.062828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.01.13-20.04.57:998][ 87]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.13-20.05.02:064][575]LogSlate: Window 'Message Log' being destroyed
+[2020.01.13-20.05.02:067][575]LogSlate: Window 'Message Log' being destroyed
+[2020.01.13-20.05.02:868][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-20.05.03:044][690]LogAssetEditorManager: Opening Asset editor for Font /Game/ThirdPersonBP/Dialog/Philosopher-Regular_Font.Philosopher-Regular_Font
+[2020.01.13-20.05.07:809][201]LogSlate: Window 'Philosopher-Regular_Font' being destroyed
+[2020.01.13-20.05.07:812][201]LogSlate: Window 'Philosopher-Regular_Font' being destroyed
+[2020.01.13-20.41.52:513][147]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Dialog/BPL_DialogUtil.BPL_DialogUtil
+[2020.01.13-20.41.53:162][147]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.01.13-20.41.54:074][147]LogSlate: Took 0.011436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.13-21.05.58:296][702]LogSlate: Took 0.014258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.13-21.07.39:476][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.01.13-21.07.39:476][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
+[2020.01.13-21.07.39:501][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Dialog/BPL_DialogUtil] ([1] browsable assets)...
+[2020.01.13-21.07.39:501][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Dialog/BPL_DialogUtil]
+[2020.01.13-21.07.39:729][750]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil_Auto102BC6D204987F411B165979C60BDC9DA.tmp' to '../../../../../../Unreal_Projects/Dialog/Saved/Autosaves/Game/ThirdPersonBP/Dialog/BPL_DialogUtil_Auto1.uasset'
+[2020.01.13-21.07.39:758][750]LogFileHelpers: Auto-saving content packages took 0.281
+[2020.01.13-21.08.38:617][761]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.01.13-21.08.49:584][ 68]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.08.49:620][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.01.13-21.08.50:194][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.08.50:206][133]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilB973252E4DB86636AD1CA1AEA19768F5.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.10.23:863][228]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.10.23:900][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.01.13-21.10.24:453][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.10.24:467][291]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilD550602946A55AD3AB26FF95D500826E.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.11.42:873][642]LogBlueprint: Error: [Compiler BPL_DialogUtil] The variable NewVar_0 cannot be declared in FunctionLibrary  BPL_DialogUtil
+[2020.01.13-21.11.42:873][642]LogBlueprint: Warning: [Compiler BPL_DialogUtil] [4018.08] Compile of BPL_DialogUtil failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/ThirdPersonBP/Dialog/BPL_DialogUtil.BPL_DialogUtil)
+[2020.01.13-21.11.49:660][112]LogSlate: Window 'Delete Variable' being destroyed
+[2020.01.13-21.11.55:281][776]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.11.55:318][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.01.13-21.11.55:848][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.11.55:863][836]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilCB10E03748C2702640BF3999B29BB43C.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.17.51:443][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.17.51:459][259]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil57B7275E4A334F9DB7E350B01BEC8F29.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.19.01:186][545]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.19.01:223][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.01.13-21.19.01:724][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.19.01:737][602]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilB204EC3646A9E96AB2F0599B2FEC8DC1.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.19.51:475][485]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.19.51:512][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.01.13-21.19.51:999][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.19.52:016][540]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil80EEEE4E426F8B74651B038D157401AB.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.19.55:262][925]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.19.55:300][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.01.13-21.19.55:838][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.19.55:855][985]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil9F8E83014F496D466779C18606F0AAC9.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.20.43:501][610]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.20.43:539][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.01.13-21.20.44:242][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.20.44:258][690]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil0F5E9FF14820D40872E9E29A086B4649.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.20.53:913][843]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.20.53:948][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.01.13-21.20.54:509][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.20.54:526][907]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil6F5ACD734CE09C698FA817B82D960755.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.21.40:979][454]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.21.41:016][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.01.13-21.21.41:661][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.21.41:678][527]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil31C419E64A218D09215407AA8AAC9745.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.21.51:067][619]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.21.51:105][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.01.13-21.21.51:508][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.21.51:526][662]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil06F934EA403836B80FADE282D55AE389.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.22.09:535][770]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.22.09:567][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.01.13-21.22.10:428][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.22.10:446][869]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil2CA5CA454B6CBB3E84FA44BA8735A62C.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.22.14:462][337]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.22.14:500][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.01.13-21.22.14:978][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.22.14:998][389]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilD0515E9D416CF9D10F299DAA2CEBD149.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.22.20:202][  6]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.22.20:238][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.01.13-21.22.20:672][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.22.20:693][ 54]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil0F716C8F465E33AEDD4CD69F4ABCD158.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.22.59:668][699]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.22.59:703][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.01.13-21.23.00:346][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.23.00:367][772]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil8F67BB734558C1ED774ACDA2C529D987.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.23.27:763][ 34]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.23.27:799][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.01.13-21.23.28:322][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.23.28:343][ 92]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil6BC16602482FF9E3F08294BB25B49193.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.23.34:445][817]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.01.13-21.23.37:934][221]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.23.37:972][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.01.13-21.23.38:417][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.23.38:438][270]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilB1FECAFC4D9EC5D08114A99C7A88929A.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.24.26:409][976]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.24.26:448][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.13-21.24.27:160][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.24.27:182][ 57]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilDA020E4541DC56416637F189DB69E6D5.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.24.39:408][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.24.39:430][516]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil4513365D4E2BE44A471518AFB3E36A09.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.24.42:408][868]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.24.42:444][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.01.13-21.24.42:988][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.24.43:010][929]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil46A3E3EC494955F95E1904828ECE3367.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.24.55:938][469]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.24.55:976][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.01.13-21.24.56:471][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.24.56:492][523]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil4FA5EB2E419812DC7B18EF8BB9081D96.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.25.52:509][187]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.25.52:546][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.01.13-21.25.53:144][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.25.53:166][254]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil1EF2EFF44D240574FB4A4CAD2E2A5C47.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.26.56:760][762]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.26.56:799][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.01.13-21.26.57:303][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.26.57:327][817]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil6232027A4F043AFF7B84F1A35AFF0E4F.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.27.03:841][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.27.03:865][588]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil785BCD6C4C8C5E78D259D08B8BF7C906.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.27.04:425][652]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.27.04:458][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.01.13-21.28.05:246][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.28.05:271][846]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilEECB111E448B727D53E98686C1FA55C8.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.28.07:468][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-21.28.07:477][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.28.07:486][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-21.28.10:190][ 37]LogSlate: Window 'Message' being destroyed
+[2020.01.13-21.28.24:696][690]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget
+[2020.01.13-21.28.25:083][690]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.01.13-21.28.49:499][399]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.28.49:562][399]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.01.13-21.28.50:063][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.28.50:087][451]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilAC37CF6146F95FB2D84F31B43E154B34.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.28.55:846][125]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.28.55:892][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.01.13-21.28.56:541][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.28.56:558][196]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetBB3EB2B4492E53B9CF80F5A82DFB2439.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.29.01:005][719]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-21.29.01:022][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.29.01:022][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-21.29.01:235][719]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2020, 9:29:01 AM)
+[2020.01.13-21.29.01:254][719]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-21.29.01:268][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014058s)
+[2020.01.13-21.29.01:268][719]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-21.29.01:268][719]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2020.01.13-21.29.01:268][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015017s)
+[2020.01.13-21.29.01:312][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.01.13-21.29.01:361][719]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.13-21.29.01:374][719]LogInit: FAudioDevice initialized.
+[2020.01.13-21.29.01:449][719]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.13-21.29.01:452][719]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.13-15.29.01
+[2020.01.13-21.29.01:452][719]LogWorld: Bringing up level for play took: 0.002098
+[2020.01.13-21.29.01:552][719]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.01.13-21.29.01:562][719]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.01.13-21.29.01:563][719]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.01.13-21.29.01:563][719]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.44
+[2020.01.13-21.29.01:563][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.29.04:672][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.29.04:676][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.29.04:712][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.13-21.29.04:713][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.29.04:760][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.29.04:789][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.01.13-21.29.04:814][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.13-21.29.06:220][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.29.23:346][236]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.29.23:402][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.01.13-21.29.23:898][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.29.23:921][288]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil54182FEC4207A58B83AE8A950EC87A3E.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.29.25:242][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.29.25:350][454]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-21.29.25:363][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.29.25:363][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-21.29.25:363][454]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2020, 9:29:25 AM)
+[2020.01.13-21.29.25:363][454]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-21.29.25:374][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010711s)
+[2020.01.13-21.29.25:375][454]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-21.29.25:375][454]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2020.01.13-21.29.25:375][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011519s)
+[2020.01.13-21.29.25:415][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.01.13-21.29.25:430][454]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.13-21.29.25:441][454]LogInit: FAudioDevice initialized.
+[2020.01.13-21.29.25:468][454]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.13-21.29.25:470][454]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.13-15.29.25
+[2020.01.13-21.29.25:470][454]LogWorld: Bringing up level for play took: 0.001399
+[2020.01.13-21.29.25:482][454]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.359
+[2020.01.13-21.29.25:483][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.29.27:651][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.29.27:652][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.29.27:684][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.13-21.29.27:685][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.29.27:728][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.29.27:732][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.01.13-21.29.27:756][711]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.01.13-21.29.29:040][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.29.33:822][416]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.01.13-21.29.34:431][417]LogSlate: Took 0.008284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.13-21.30.17:771][452]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.01.13-21.30.18:024][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.01.13-21.30.18:514][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.01.13-21.30.18:557][500]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/ThirdPersonCharacter836B21974B0C4F94EFCE139B43D616A9.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.01.13-21.30.20:058][676]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-21.30.20:078][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.30.20:078][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-21.30.20:078][676]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2020, 9:30:20 AM)
+[2020.01.13-21.30.20:078][676]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-21.30.20:089][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010553s)
+[2020.01.13-21.30.20:089][676]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-21.30.20:089][676]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2020.01.13-21.30.20:089][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011346s)
+[2020.01.13-21.30.20:144][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.01.13-21.30.20:157][676]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.13-21.30.20:167][676]LogInit: FAudioDevice initialized.
+[2020.01.13-21.30.20:197][676]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.13-21.30.20:198][676]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.13-15.30.20
+[2020.01.13-21.30.20:199][676]LogWorld: Bringing up level for play took: 0.001361
+[2020.01.13-21.30.20:211][676]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.087
+[2020.01.13-21.30.20:211][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.30.20:707][730]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 5
+[2020.01.13-21.30.20:707][730]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:RequestShowDialog
+	Function /Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget_C:SetText
+	Function /Game/ThirdPersonBP/Dialog/BPL_DialogUtil.BPL_DialogUtil_C:FormatInvisibleText
+
+[2020.01.13-21.30.20:709][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.13-21.30.22:816][730]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 66
+[2020.01.13-21.30.22:816][730]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:RequestShowDialog
+	Function /Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget_C:SetText
+	Function /Game/ThirdPersonBP/Dialog/BPL_DialogUtil.BPL_DialogUtil_C:FormatInvisibleText
+
+[2020.01.13-21.30.37:488][730]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.01.13-21.30.52:130][730]LogBlueprintUserMessages: [DialogWidget_C_0] 
+[2020.01.13-21.30.55:946][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.30.56:023][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.30.56:023][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.30.56:056][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.13-21.30.56:057][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.30.56:097][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.30.56:102][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.01.13-21.30.56:130][196]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.13-21.30.56:963][295]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-21.30.56:979][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.30.56:979][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-21.30.56:979][295]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2020, 9:30:56 AM)
+[2020.01.13-21.30.56:980][295]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-21.30.56:990][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010239s)
+[2020.01.13-21.30.56:990][295]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-21.30.56:990][295]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2020.01.13-21.30.56:991][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010949s)
+[2020.01.13-21.30.57:032][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.01.13-21.30.57:046][295]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.13-21.30.57:057][295]LogInit: FAudioDevice initialized.
+[2020.01.13-21.30.57:088][295]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.13-21.30.57:089][295]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.13-15.30.57
+[2020.01.13-21.30.57:090][295]LogWorld: Bringing up level for play took: 0.001327
+[2020.01.13-21.30.57:102][295]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.021
+[2020.01.13-21.30.57:103][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.30.57:816][377]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 5
+[2020.01.13-21.30.57:816][377]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:RequestShowDialog
+	Function /Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget_C:SetText
+	Function /Game/ThirdPersonBP/Dialog/BPL_DialogUtil.BPL_DialogUtil_C:FormatInvisibleText
+
+[2020.01.13-21.30.57:819][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.13-21.31.05:268][377]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 66
+[2020.01.13-21.31.05:268][377]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:RequestShowDialog
+	Function /Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget_C:SetText
+	Function /Game/ThirdPersonBP/Dialog/BPL_DialogUtil.BPL_DialogUtil_C:FormatInvisibleText
+
+[2020.01.13-21.31.28:388][377]LogBlueprintUserMessages: [DialogWidget_C_0] 
+[2020.01.13-21.31.28:389][377]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.31.28:389][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.31.28:427][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.13-21.31.28:427][377]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-21.31.28:471][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-21.31.28:476][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.01.13-21.31.28:493][378]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.01.13-21.31.31:539][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.13-21.31.31:757][736]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/ThirdPersonExampleMap_Auto282C272E04CD136F1AE7717AAC2026715.tmp' to '../../../../../../Unreal_Projects/Dialog/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.01.13-21.31.31:758][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.253
+[2020.01.13-21.31.31:758][736]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.253
+[2020.01.13-21.31.32:752][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.31.40:781][810]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-21.31.40:825][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.01.13-21.31.41:658][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-21.31.41:681][904]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil5E3255614CB6750752882696DA2F9FBF.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-21.31.43:275][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.50.22:442][230]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.50.22:494][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.01.13-21.50.22:991][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.50.23:039][283]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget08DBFE284D0FACBB05BE7C9B588DC11B.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.50.24:488][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.50.29:109][  1]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.50.29:325][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.01.13-21.50.29:941][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.50.29:955][ 69]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget71127B404488C43B7CA3C3B38AB29738.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.50.30:618][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.50.47:233][112]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.50.47:280][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.01.13-21.50.47:843][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.50.47:856][174]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget23DEEE294D08684700CE8987DC4F2025.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.50.48:626][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.51.04:458][108]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.51.04:504][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.01.13-21.51.04:986][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.51.05:001][159]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget3774441846179A3B3826858BA4229EFD.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.51.05:808][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.51.39:240][189]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.51.39:287][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.01.13-21.51.39:814][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.51.39:829][246]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget5A9B85BB4A1B9F63A56F39BB8FEF770E.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.51.42:108][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.51.48:141][218]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.51.48:186][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.01.13-21.51.48:705][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.51.48:721][273]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget9DA9258645C6A32BEACE2FB63ACC31BB.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.51.50:624][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.51.56:016][115]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.51.56:061][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.13-21.51.56:496][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.51.56:513][160]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetCCE6B9AE4C7FA55B70DB1B8FDFF515DB.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.51.57:089][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.52.11:192][880]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.01.13-21.52.14:520][271]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.01.13-21.52.24:787][478]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.52.24:836][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.01.13-21.52.25:417][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.52.25:435][540]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget79232A5D438691B38EAF01A3C4992AA2.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.52.26:945][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.52.33:483][484]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.52.33:530][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.13-21.52.34:111][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.52.34:130][547]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget0DF7C0554373DF56DACFC0B08AA88E65.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.52.34:673][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.53.07:500][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.01.13-21.53.07:699][625]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/ThirdPersonExampleMap_Auto306FFE2F7413866314E3962B5B4F5E26E.tmp' to '../../../../../../Unreal_Projects/Dialog/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.01.13-21.53.07:703][625]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.253
+[2020.01.13-21.53.07:703][625]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.253
+[2020.01.13-21.53.09:438][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.53.09:457][631]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget30438E60437A079BAA6E869CF8176986.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.53.11:589][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.53.43:845][626]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.53.43:890][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.01.13-21.53.44:689][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.53.44:709][713]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget03AB5A2E419A156CEAE478B93B75A6F9.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.53.46:075][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.53.55:643][985]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.01.13-21.53.59:820][465]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.01.13-21.54.05:359][104]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.01.13-21.54.15:275][258]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.54.15:322][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.01.13-21.54.16:129][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.54.16:148][346]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetD2BC73EE42A54801B7444A96CB8E2A0C.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.54.16:955][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.54.31:756][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.54.31:776][951]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget05BBDEDB4D81773F8EA489A6BAE91350.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.54.34:969][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.54.47:933][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.54.47:952][850]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget77A9D8E94D19C98863E899A28013A4ED.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.54.59:311][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.13-21.55.40:360][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.55.40:382][746]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetE466D20B4B6F04BC074E9CA54A8937EA.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.55.40:744][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.55.40:845][797]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.55.40:889][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.01.13-21.56.13:773][625]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.56.13:818][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.13-21.56.14:314][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.56.14:335][677]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetED01525A4A526ED7E8461ABBC8D9CCDE.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.56.20:001][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.56.31:439][677]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.56.31:488][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.13-21.56.31:965][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.56.31:988][726]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget32EA3D894A2D6820E9D3389E3357B21C.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.56.33:155][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.56.48:476][683]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.56.48:523][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.13-21.56.48:985][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.56.49:008][732]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget6A5808B04E778B57B388BAA30DD3814C.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.56.52:252][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.56.57:874][784]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.56.57:921][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.01.13-21.56.58:427][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.56.58:448][838]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetBB0B2EB5486E66D03317D7A132E13C2A.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.56.59:085][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-21.59.04:845][471]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-21.59.04:894][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.01.13-21.59.05:788][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-21.59.05:811][571]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetEF04AE924560C3DF259A09804AA31106.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-21.59.46:593][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.00.02:319][524]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-22.00.02:371][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.13-22.00.02:855][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.00.02:878][573]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget89BEABB4430C9A53EF69F7B74532CD61.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.00.05:786][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.00.08:587][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.00.08:608][993]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget7F1141E448579B5C63E56BB422EDCFE0.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.00.13:423][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.01.09:697][126]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-22.01.09:747][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.01.13-22.01.10:209][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.01.10:233][174]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget6106644A4B1E062EA61089BA589C4DA7.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.01.10:727][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.01.19:943][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.01.19:966][299]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget4D1EC6F548DC28DC37569B862DE2C8CB.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.01.21:436][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.01.25:035][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.01.25:058][859]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetCA35E033426C4172559208A560801D88.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.01.25:423][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.01.25:542][912]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-22.01.25:589][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.01.13-22.02.21:374][516]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.02.21:425][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.01.13-22.02.21:927][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.02.21:953][573]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil8C75655047956171D65AC382AD056B4C.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.02.22:880][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.03.08:014][989]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-22.03.08:067][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.01.13-22.03.08:578][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.03.08:604][ 44]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget6B111C664DF3F3CDC35641B37E47E890.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.03.10:239][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.03.43:374][100]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.03.43:386][100]LogBlueprint: Error: [Compiler DialogWidget] In use pin  Formatted Text  no longer exists on node  Format Invisible Text . Please refresh node or break links to remove pin.
+[2020.01.13-22.03.43:391][100]LogBlueprint: Warning: [Compiler DialogWidget] [7138.60] Compile of DialogWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 16 ms] (/Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget)
+[2020.01.13-22.03.43:586][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.01.13-22.03.44:058][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.03.44:086][149]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilDF6FFA5E4AE8D543DFE476BDDCB73A14.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.03.45:186][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.04.42:277][691]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.04.42:324][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.01.13-22.04.43:523][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.04.43:550][818]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilE8A682834A19ADFD4536E0A0C11CB62F.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.04.45:057][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.05.16:759][689]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.05.16:768][689]LogBlueprint: Error: [Compiler DialogWidget] In use pin  Formatted Text  no longer exists on node  Format Invisible Text . Please refresh node or break links to remove pin.
+[2020.01.13-22.05.16:773][689]LogBlueprint: Warning: [Compiler DialogWidget] [7231.98] Compile of DialogWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 13 ms] (/Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget)
+[2020.01.13-22.05.16:970][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.01.13-22.05.17:396][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.05.17:424][732]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil8D8E18CA45E0B5EA4563C582F1C3CA8B.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.05.19:048][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.05.39:694][357]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.05.39:743][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.01.13-22.05.40:269][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.05.40:298][413]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil52A5D32B42F1D13D5535C3A3F06A63EE.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.05.41:175][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.07.20:041][894]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.07.20:091][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.13-22.07.20:600][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.07.20:630][948]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilCCCA8B81409B90B85662528A90FE5EA1.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.07.22:132][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.08.01:032][659]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.08.01:081][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.01.13-22.08.01:592][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.08.01:625][712]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil43DEDCDF4BDAFA3B2E11B4A6F228E7CF.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.08.03:279][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.08.05:815][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.08.05:844][206]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil50DB04CA4A57D96D7143E990488BE2A1.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.08.06:387][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.08.24:736][422]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.08.24:785][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.01.13-22.08.25:265][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.08.25:296][471]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil4FCB368844F9A4DE286238A06ACD5EA4.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.08.25:626][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.08.26:957][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.08.26:983][665]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetD444A6994288A6124715239DD5909484.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.08.29:822][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.08.45:839][317]BlueprintLog: New page: Compile DialogWidget
+[2020.01.13-22.08.46:043][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.01.13-22.08.46:741][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.08.46:766][393]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget6ED8341B4C32AD7D84658798CE97176C.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.08.48:193][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.08.50:701][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.08.50:726][854]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidgetDEE6B6634861D60844B741836BC8EAA8.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.08.51:009][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.09.12:552][450]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.09.12:606][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.01.13-22.09.13:135][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.09.13:167][510]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil9B4F4984426FDBDEEFEA138E0CE73B45.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.09.14:552][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.09.30:966][615]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.09.31:015][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.01.13-22.09.31:472][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.09.31:503][667]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil7ABE7AE740F1016F3CBDB6AC51506564.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.09.31:960][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.09.37:835][415]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.09.37:884][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.01.13-22.09.38:439][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.09.38:471][478]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil915D82FB4C6A66276845C8AC835ADC4F.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.09.39:546][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.11.03:874][646]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.11.03:923][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.01.13-22.11.04:375][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.11.04:410][697]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil1F37EEA7459D2BE94153BA8394B131C5.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.11.04:975][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.11.07:488][ 62]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.11.07:537][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.01.13-22.11.08:281][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.11.08:314][148]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil4184B02349BFC3A382A93F84CE3F82D2.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.11.09:788][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.11.17:078][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.11.17:112][192]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil1DED00A34A1B42BDB41A17B4D1D99D3E.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.11.18:219][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.11.43:012][271]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.11.43:063][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.01.13-22.11.43:617][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.11.43:652][332]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil5EAADF494FDCC09AAB3204B676CAA734.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.11.45:720][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.11.49:502][ 26]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.11.49:553][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.01.13-22.11.50:054][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.11.50:088][ 83]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil89FBCA664ADEAFA3874C88B6450BAD8D.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.11.59:046][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.13-22.12.49:671][206]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.12.49:720][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.01.13-22.12.50:840][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.12.50:873][337]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilCCE5FD75485A2290638E5A93C71C537F.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.12.51:835][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.13.08:739][451]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.13.08:787][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.01.13-22.13.09:357][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.13.09:392][516]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilB6A2B3034A03ACC335C8649370A8EC49.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.13.09:807][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.13.51:941][604]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.13.51:988][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.01.13-22.13.52:557][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.13.52:592][668]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil54507C3B4E0A370CE88110879F34D14D.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.13.52:896][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.13.56:624][148]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.13.56:674][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.01.13-22.13.57:108][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.13.57:142][197]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil8F10576445900BF72D3C7FBA47DF9E47.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.13.57:518][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.14.23:631][298]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.14.23:680][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.13-22.14.24:463][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.14.24:498][388]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilA4FA27D54B9E35FBDB551E8244FC53C0.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.14.24:901][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.14.32:698][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.14.32:733][363]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilA47DDAE449CAAF4E39A51C93702FFA6C.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.14.33:288][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.15.26:676][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.01.13-22.15.26:895][220]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/ThirdPersonExampleMap_Auto4504833AA41306E2C3F49B6817902192B.tmp' to '../../../../../../Unreal_Projects/Dialog/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2020.01.13-22.15.26:898][220]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.259
+[2020.01.13-22.15.26:898][220]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.259
+[2020.01.13-22.15.26:899][220]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Dialog/BPL_DialogUtil] ([1] browsable assets)...
+[2020.01.13-22.15.26:899][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Dialog/BPL_DialogUtil]
+[2020.01.13-22.15.26:933][220]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil_Auto4D753339B4F94E7F115A61D8E5C146190.tmp' to '../../../../../../Unreal_Projects/Dialog/Saved/Autosaves/Game/ThirdPersonBP/Dialog/BPL_DialogUtil_Auto4.uasset'
+[2020.01.13-22.15.26:934][220]LogFileHelpers: Auto-saving content packages took 0.037
+[2020.01.13-22.16.44:367][391]LogEditorTransaction: Undo Move Node
+[2020.01.13-22.17.15:908][141]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.17.15:959][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.01.13-22.17.16:460][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.17.16:498][197]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil81B76CB14D72A1204D1858BD7D92ED2E.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.17.17:064][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.17.39:206][871]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.17.39:255][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.01.13-22.17.40:239][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.17.40:279][985]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil9F2AB67F4C9CE4E76BD2398F4004D30E.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.17.40:726][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.18.56:084][175]LogEditorTransaction: Undo Move Node
+[2020.01.13-22.18.59:260][543]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.18.59:314][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.01.13-22.18.59:847][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.18.59:889][602]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil8BB295364CAC61705A53F99109FB84EB.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.19.00:577][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.19.23:687][369]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.19.23:740][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.01.13-22.19.24:237][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.19.24:278][423]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil5AD41E1340AEFFC8B8076C88850917CC.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.19.24:801][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.20.16:247][574]BlueprintLog: New page: Compile BPL_DialogUtil
+[2020.01.13-22.20.16:299][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.13-22.20.16:799][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.20.16:845][629]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilDCF24B21494CD63419C0D99989E3CF7F.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.20.17:749][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.20.22:852][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.20.22:895][342]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtil0660C2A3466554CEC7774EB20CD45B74.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.20.24:751][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.20.47:417][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/DialogWidget" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset" SILENT=true
+[2020.01.13-22.20.47:444][217]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/DialogWidget2933E9FD4CA38AD03139F0A5A6516309.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/DialogWidget.uasset'
+[2020.01.13-22.20.48:867][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.20.48:950][393]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-22.20.48:974][393]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-22.20.48:974][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-22.20.48:974][393]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2020, 10:20:48 AM)
+[2020.01.13-22.20.48:974][393]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-22.20.48:985][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010613s)
+[2020.01.13-22.20.48:985][393]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-22.20.48:986][393]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2020.01.13-22.20.48:986][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011699s)
+[2020.01.13-22.20.49:026][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.01.13-22.20.49:044][393]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.13-22.20.49:058][393]LogInit: FAudioDevice initialized.
+[2020.01.13-22.20.49:086][393]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.13-22.20.49:088][393]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.13-16.20.49
+[2020.01.13-22.20.49:088][393]LogWorld: Bringing up level for play took: 0.001646
+[2020.01.13-22.20.49:101][393]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.023
+[2020.01.13-22.20.49:101][393]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-22.20.49:779][470]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 206
+[2020.01.13-22.20.49:780][470]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:RequestShowDialog
+	Function /Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget_C:SetText
+
+[2020.01.13-22.20.49:782][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.13-22.20.56:694][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-22.20.56:694][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-22.20.56:729][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.13-22.20.56:729][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-22.20.56:771][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-22.20.56:775][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.01.13-22.20.56:794][471]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.13-22.21.06:958][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Dialog/BPL_DialogUtil" FILE="../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset" SILENT=true
+[2020.01.13-22.21.07:002][662]LogSavePackage: Moving '../../../../../../Unreal_Projects/Dialog/Saved/BPL_DialogUtilB4919A5F43BAA3F49FC32BBCCB33D79F.tmp' to '../../../../../../Unreal_Projects/Dialog/Content/ThirdPersonBP/Dialog/BPL_DialogUtil.uasset'
+[2020.01.13-22.21.08:360][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.13-22.21.08:459][832]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-22.21.08:476][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-22.21.08:476][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-22.21.08:479][832]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2020, 10:21:08 AM)
+[2020.01.13-22.21.08:479][832]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-22.21.08:490][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010451s)
+[2020.01.13-22.21.08:491][832]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-22.21.08:491][832]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2020.01.13-22.21.08:491][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011552s)
+[2020.01.13-22.21.08:533][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.01.13-22.21.08:549][832]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.13-22.21.08:560][832]LogInit: FAudioDevice initialized.
+[2020.01.13-22.21.08:592][832]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.13-22.21.08:593][832]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.13-16.21.08
+[2020.01.13-22.21.08:593][832]LogWorld: Bringing up level for play took: 0.001296
+[2020.01.13-22.21.08:606][832]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.518
+[2020.01.13-22.21.08:606][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-22.21.10:342][ 33]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 5
+[2020.01.13-22.21.10:342][ 33]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:RequestShowDialog
+	Function /Game/ThirdPersonBP/Dialog/DialogWidget.DialogWidget_C:SetText
+	Function /Game/ThirdPersonBP/Dialog/BPL_DialogUtil.BPL_DialogUtil_C:RemoveFormattingFromString
+
+[2020.01.13-22.21.10:344][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2

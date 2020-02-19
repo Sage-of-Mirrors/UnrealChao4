@@ -1,0 +1,31 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Github\RandomUE4Stuff).
+  Creating makefile for RandomUE4StuffEditor (no existing makefile)
+  Parsing headers for RandomUE4StuffEditor
+    Running UnrealHeaderTool "D:\Github\RandomUE4Stuff\RandomUE4Stuff\RandomUE4Stuff.uproject" "D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\RandomUE4StuffEditor\Development\RandomUE4StuffEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for RandomUE4StuffEditor in 6.6954211 seconds
+  Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 18 actions with 4 processes...
+    [1/18] Default.rc2
+    [2/18] SharedPCH.UnrealEd.cpp
+    [3/18] ChaoAnimationLibrary.cpp
+    [4/18] ChaoAnimMetadata.cpp
+    [5/18] AnimNotify_OnEndAnimation.cpp
+    [6/18] RandomUE4Stuff.cpp
+    [7/18] ChaoAnimationMontagerLibrary.cpp
+D:\Github\RandomUE4Stuff\RandomUE4Stuff\Source\RandomUE4Stuff\ChaoAnimationMontagerLibrary.cpp(91): warning C4996: 'FPaths::GameContentDir': FPaths::GameContentDir() has been superseded by FPaths::ProjectContentDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Paths.h(151): note: see declaration of 'FPaths::GameContentDir'
+    [8/18] ChaoAnimationLibrary.gen.cpp
+    [9/18] ChaoAnimEntry.gen.cpp
+    [10/18] ChaoAnimMetadata.gen.cpp
+    [11/18] RandomUE4Stuff.init.gen.cpp
+    [12/18] ChaoAnimationMontagerLibrary.gen.cpp
+    [13/18] AnimNotify_OnEndAnimation.gen.cpp
+    [14/18] TestAnimLibrary.gen.cpp
+    [15/18] TestAnimLibrary.cpp
+    [16/18] UE4Editor-RandomUE4Stuff.lib
+       Creating library D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\UE4Editor-RandomUE4Stuff.lib and object D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\UE4Editor-RandomUE4Stuff.exp
+    [17/18] UE4Editor-RandomUE4Stuff.dll
+       Creating library D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\UE4Editor-RandomUE4Stuff.suppressed.lib and object D:\Github\RandomUE4Stuff\RandomUE4Stuff\Intermediate\Build\Win64\UE4Editor\Development\RandomUE4Stuff\UE4Editor-RandomUE4Stuff.suppressed.exp
+    [18/18] RandomUE4StuffEditor.target
+  Total time in Parallel executor: 26.64 seconds
+  Total execution time: 47.73 seconds
