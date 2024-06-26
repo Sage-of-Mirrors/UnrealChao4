@@ -8,15 +8,21 @@ This is a recreation of the virtual pets called [Chao](https://sonic.fandom.com/
 
 ## Assets
 
+### Models
+The *Sonic Adventure* modding community was advanced enough in January of 2020 that it was possible to import 3D models into Blender, and subsequently export them into Autodesk FBX format. This made it easy to import the Chao models into Unreal Engine, and with some manual labor in Blender, even the blend shapes made the transition:
+
 <div align="center">
   <video src="https://github.com/Sage-of-Mirrors/UnrealChao4/assets/6289769/d9e09e86-f0c8-429b-8eb7-f5c061e47557" width="640" height="480" />
 </div>
 
+### Animations
+Animations were much more difficult to work with, as I had to find a way to piece together individual animations into whole sequences.
+
+To that end, I wrote a Blueprint Function Library ([header](https://github.com/Sage-of-Mirrors/UnrealChao4/blob/master/UnrealChao4/Source/RandomUE4Stuff/ChaoAnimationMontagerLibrary.h), [implementation](https://github.com/Sage-of-Mirrors/UnrealChao4/blob/master/UnrealChao4/Source/RandomUE4Stuff/ChaoAnimationMontagerLibrary.cpp)) which, when the user presses a button in the Unreal editor, would read a CSV file containing information about how the animations relate to each other and generate Anim Montage assets from it. These montages represent entire actions that a Chao can perform; for example, the video below shows a montage which strings together several animations to make the Chao lay down and start crawling along the ground.
+
 <div align="center">
   <video src="https://github.com/Sage-of-Mirrors/UnrealChao4/assets/6289769/18112336-b970-4343-b188-9fdb0474a3c1" width="640" height="480" />
 </div>
-
-
 
 ## Behavior
 
